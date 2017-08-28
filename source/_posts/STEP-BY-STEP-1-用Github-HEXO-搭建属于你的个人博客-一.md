@@ -42,5 +42,8 @@ Linux下安装_[Git https://git-scm.com/downloads](https://git-scm.com/downloads
 也可以点击右上角头像，选择Settings->SSH and GPG keys。
 ![mark](http://ouvbp19aw.bkt.clouddn.com/qiegao-blog/170828/aHaED2D8F1.jpg?imageslim)
 
+
+本篇“STEP BY STEP 1 : 用Github + HEXO 搭建属于你的个人博客(一)”完结，肿么样，si不si很easy啊。
+
 ### 参考文献
 请参阅本系列文章最后一篇的内容。
