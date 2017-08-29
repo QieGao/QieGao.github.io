@@ -46,4 +46,6 @@ Linux下安装_[Git https://git-scm.com/downloads](https://git-scm.com/downloads
 本篇“STEP BY STEP 1 : 用Github + HEXO 搭建属于你的个人博客(一)”完结，肿么样，si不si很easy啊。
 
 ### 参考文献
-请参阅本系列文章最后一篇的内容。
+1. _[20分钟教你使用hexo搭建github博客](http://www.jianshu.com/p/e99ed60390a8)_
+2. _[HEXO+Github,搭建属于自己的博客](http://www.jianshu.com/p/465830080ea9)_
+3. _[手把手教你用Hexo+Github 搭建属于自己的博客](http://blog.csdn.net/gdutxiaoxu/article/details/53576018)_
