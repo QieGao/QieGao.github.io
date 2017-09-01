@@ -28,6 +28,7 @@ tags:
 ### 配置Git环境
 Windows下可以考虑直接安装_[Github Desktop https://desktop.github.com/](https://desktop.github.com/)_。
 Linux下安装_[Git https://git-scm.com/downloads](https://git-scm.com/downloads)_即可。
+对于Git不熟悉的同志，可以参考_[Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)_。
 
 
 ### 生成、添加SSH KEY
@@ -49,3 +50,4 @@ Linux下安装_[Git https://git-scm.com/downloads](https://git-scm.com/downloads
 1. _[20分钟教你使用hexo搭建github博客](http://www.jianshu.com/p/e99ed60390a8)_
 2. _[HEXO+Github,搭建属于自己的博客](http://www.jianshu.com/p/465830080ea9)_
 3. _[手把手教你用Hexo+Github 搭建属于自己的博客](http://blog.csdn.net/gdutxiaoxu/article/details/53576018)_
+4. _[Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)_
