@@ -173,9 +173,9 @@ HEXO主题非常多，可以去HEXO官网上查看，也可以_[看这里](https
 当我们在自己的电脑上完成了HEXO的搭建后，突然想在其他电脑上也同步博客内容，怎么办呢？我们可以利用Github创建一个分支来管理博客源文件。
 打开博客所在的Github Pages仓库，https://github.com/Github昵称/Github昵称.github.io ，点击Branch，默认只有master分支，输入分支名称，点击Create branch。
 因为我已经创建过分支hexo，所以这里用hexo-src作为展示，分支名称自己明白就好。
-![mark](http://ouvbp19aw.bkt.clouddn.com/qiegao-blog/170829/JB0bc38cGf.jpg?imageslim)
+![github_branch](http://ouvbp19aw.bkt.clouddn.com/qiegao-blog/170829/JB0bc38cGf.jpg?imageslim)
 分支创建完成后，设置默认分支为刚刚创建的分支名称。
-![mark](http://ouvbp19aw.bkt.clouddn.com/qiegao-blog/170829/7e4HDC0IjG.jpg?imageslim)
+![github_branch_default](http://ouvbp19aw.bkt.clouddn.com/qiegao-blog/170829/7e4HDC0IjG.jpg?imageslim)
 接着，我们需要把博客源文件全部同步到我们刚刚创建的分支里边。运行
 
     #进入博客文件夹
@@ -233,7 +233,7 @@ HEXO主题非常多，可以去HEXO官网上查看，也可以_[看这里](https
     git commit -m '提交内容说明'
     git push
 
-本篇“STEP BY STEP 1 : 用Github + HEXO 搭建属于你的个人博客(二)”完结，内容较多，慢慢来。不熟悉Git命令的可以参考后边的参考文献。
+本篇“STEP BY STEP 1 : 用Github + HEXO 搭建属于你的个人博客(二)”完结，内容较多，慢慢来。不熟悉Git命令的可以参考_[Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)_。
 
 
 ### 参考文献
